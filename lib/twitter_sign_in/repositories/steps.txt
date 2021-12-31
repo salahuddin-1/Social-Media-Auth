@@ -1,0 +1,19 @@
+STEP 1 :
+
+Go to twitter.developer and register your app
+
+Step 2 :
+
+Get all the keys and callbakc URLS and save them. (They are already saved here)
+
+Step 3 :
+
+Set up some Android settings (Look in the documentation)
+
+Step 4 :
+
+Create the api class and provide all the keys and write the code login
+
+
+Tutorial link
+https://medium.com/flutter-community/social-authentication-in-customized-flutter-applications-5c972bff17f3

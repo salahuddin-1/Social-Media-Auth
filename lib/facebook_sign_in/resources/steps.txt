@@ -1,0 +1,12 @@
+Step 1 : 
+Go to facebook developer account and register your app
+
+Step 2 :
+Obtain the SHA-1 key but in base64 format , that go online and put ur SHA1 key which is in
+Hex and convert into base 64
+
+Step 3 :
+Follow all the android instructions mentioned in the documentation of fb signin
+
+Step 4 :
+Get your fb client token in advanced settings in fb developer

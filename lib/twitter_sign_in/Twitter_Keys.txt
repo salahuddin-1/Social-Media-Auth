@@ -1,0 +1,18 @@
+API Key :
+wQtCDajvyhVIuxy9tsZ4iheQT
+
+
+API Key Secret :
+DweseUrnCeY2M0STJ1R5Wd0CiemsMtyi4FtLDuXBZ5HlyR3tPV
+
+
+Bearer Token
+AAAAAAAAAAAAAAAAAAAAAIgKXQEAAAAAUoSxeFe7HGTRRevd5Q1PmdT%2FRNA%3DtjodHNq4aUlewIvLJirezqtwKO1wwAJV8Y0C37154OqropF7kb
+
+
+Client ID
+emtqYXFybnQzSUR0Q3RuOENacnk6MTpjaQ
+
+
+Client Secret
+k9VH8GN5bh2c7UA2SG4vjqujBPWD39HPpAVqUoZljy_MvnPg-V
